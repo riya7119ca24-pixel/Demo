@@ -1,6 +1,13 @@
 package org.example;
-public class Main {
+public class Main{
     public static void main(String[] args) {
-        System.out.println("Helloo, IntelliJ! This is my second commit11.");
+
+        int a = 10;   // first number
+        int b = 20;   // second number
+
+        int sum = a + b;   // addition
+
+        System.out.println("The sum is: " + sum);
     }
 }
+
